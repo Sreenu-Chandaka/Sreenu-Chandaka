@@ -58,6 +58,10 @@ AI Integration  🌟🌟🌟🌟⟫░░░░░░░░░░░ 76.8%
 
 # 🌟 **𝙊𝙥𝙚𝙣 𝙛𝙤𝙧 𝙎𝙩𝙧𝙖𝙩𝙚𝙜𝙞𝙘 𝘾𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣 𝙞𝙣:**  
 
+### 📱 **Cross-Platform Mobile Innovations**  
+- Create stunning, high-performance mobile apps with Flutter.  
+- Ensure seamless experiences across iOS, Android, and web.  
+
 ### 🚀 **Enterprise-scale Digital Transformations**  
 - Modernize legacy systems and drive innovation at scale.  
 - Deliver seamless, end-to-end digital experiences.  
@@ -70,9 +74,7 @@ AI Integration  🌟🌟🌟🌟⟫░░░░░░░░░░░ 76.8%
 - Migrate, optimize, and scale with robust cloud solutions.  
 - Leverage AWS, Docker, and Kubernetes for agility and efficiency.  
 
-### 📱 **Cross-Platform Mobile Innovations**  
-- Create stunning, high-performance mobile apps with Flutter.  
-- Ensure seamless experiences across iOS, Android, and web.  
+
 
 ---
 
