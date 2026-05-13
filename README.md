@@ -28,7 +28,7 @@
   <a href="https://github.com/Sreenu-Chandaka/movie_web_app">  
     <img src="movie_app_1.png" width="30%" alt="Flutter Web Movie App">  
   </a>  
-  <a href="https://github.com/Sreenu-Chandaka/Sreepixelss">  
+  <a href="https://github.com/Sreenu-Chandaka/SreePixels"> 
     <img src="sreenary.png" width="30%" alt="Sreenary → “HD Imagery, Unfiltered">  
   </a>  
   
