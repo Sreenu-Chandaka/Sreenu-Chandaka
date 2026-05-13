@@ -14,7 +14,7 @@
 
 | **Category**            | **Technologies**                          |
 |--------------------------|-------------------------------------------|
-| **Backend Engineering**  | 🖥️ Spring Boot, Node.js                   |
+| **Backend Engineering**  | 🖥️ Spring Boot, Fast API                   |
 | **Frontend Ecosystems**  | 🎨 React, Flutter                         |
 | **Cloud Infrastructure** | ☁️ AWS, Docker, Kubernetes                |
 | **AI/ML Integration**    | 🤖 TensorFlow, PyTorch                    |
