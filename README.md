@@ -32,6 +32,7 @@ Full Stack Developer and AI Engineer with **3.5 years** of experience building p
 #### 🔍 [Code Forensics AI](https://github.com/Sreenu-Chandaka/Code-Forensics-AI) — Agentic Incident Root-Cause Analysis & Safe Rollback
 
 <img src="code-forensics-ai.png" width="100%" alt="Code Forensics AI">
+
 Detects CI/deployment failures from GitHub webhooks, ranks root causes with evidence-backed 0–100 scores, explains them with an LLM and offers safe, human-approved rollbacks.
 - LangGraph pipeline (timeline → rank → gather → explain → verify) with a tool-calling agent: read-only tools, path allowlists, call budgets, prompt-injection fencing, audit logs
 - Self-verifying AI: Pydantic-validated JSON output; explanations citing files outside the evidence are auto-rewritten
@@ -41,6 +42,7 @@ Detects CI/deployment failures from GitHub webhooks, ranks root causes with evid
 #### 🏦 Fugen Capital — Enterprise NBFC Loan & Banking Operations Portal
 
 <img src="fugen-capital.png" width="100%" alt="Fugen Capital">
+
 Loan origination and operations portal for loan officers, underwriters, collections, finance and admin teams.
 - REST APIs for loan applications, document upload & verification, status workflows and audit trails
 - Permission-based RBAC, JWT with silent refresh and request queueing, Zod-validated API responses
@@ -50,6 +52,7 @@ Loan origination and operations portal for loan officers, underwriters, collecti
 #### 🏗️ Civilbook — Construction & Home-Services Marketplace (60,000+ Play Store downloads)
 
 <img src="civilbook.png" width="100%" alt="Civilbook">
+
 Two-sided marketplace: [Provider app](https://play.google.com/store/apps/details?id=com.civilbook.civilbookprovider) (50K+, ⭐ 4.4) and [User app](https://play.google.com/store/apps/details?id=com.civilbook.civilbookuser) (10K+), built in Flutter with a React.js web portal.
 - Backend APIs for listings, bookings, availability, service areas and real-time job dispatch
 - Google Maps API for delivery zones; JWT + role-based access for providers and users
